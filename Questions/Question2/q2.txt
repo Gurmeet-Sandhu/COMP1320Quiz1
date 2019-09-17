@@ -1,3 +1,7 @@
 No, its not mandatory to type git status command every time. we type this command
 to check status of files in the repository whether they have been committed to pushed to 
 githhub
+
+
+Because when we type node and hit enter, we enter into node REPL mode, where we con
+test javascript code. we have to type .exit to go out to normal terminal.
