@@ -1,0 +1,3 @@
+No, its not mandatory to type git status command every time. we type this command
+to check status of files in the repository whether they have been committed to pushed to 
+githhub
